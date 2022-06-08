@@ -1,2 +1,2 @@
 #Allows the app to send as a User
-New-ApplicationAccessPolicy -AppId 50ac13e3-4dfd-4883-badc-695cc4ace629 -PolicyScopeGroupId noreply_flankspeed_onboarding20@usnavycloud42.onmicrosoft.us -AccessRight RestrictAccess -Description "Restrict this app to members of distribution group EvenUsers."
+New-ApplicationAccessPolicy -AppId [enter App ID here] -PolicyScopeGroupId [enter group ID here] -AccessRight RestrictAccess -Description "Restrict this app to members of distribution group EvenUsers."
