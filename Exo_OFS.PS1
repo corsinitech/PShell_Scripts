@@ -1,1 +1,1 @@
-Connect-ExchangeOnline -UserPrincipalName gabriel.corsini.admin@flankspeed.onmicrosoft.us -ConnectionUri https://webmail.apps.mil/powershell-liveid -AzureADAuthorizationEndPointUri https://login.microsoftonline.us/common
+Connect-ExchangeOnline -UserPrincipalName [enter admin upn here] -ConnectionUri https://webmail.apps.mil/powershell-liveid -AzureADAuthorizationEndPointUri https://login.microsoftonline.us/common
